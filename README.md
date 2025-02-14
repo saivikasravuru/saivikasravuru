@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey, I'm Ravuru Sai Vikas! 👨‍💻🚀
 </h1>
 <h3 align="center">
-  💻 Data Scientist | 🎓 CSE (Data Science)@SRMIST | 🔍 ACM-SIGCHI MEMBER
+  💻 Data Scientist | 🎓 CSE (Data Science) @SRMIST | 🔍 ACM-SIGCHI MEMBER
 </h3>
 
 ---
