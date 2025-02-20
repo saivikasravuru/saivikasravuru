@@ -61,7 +61,7 @@
 
 ## 🏅 **Featured Projects**  
 
-| 🌟 Project | 🔧 Tech Stack | 🔗 Live Demo |
+| 🌟 Project | 🔧 Tech Stack | 🔗 Live Demo  |
 |------------|-------------|-------------|
 | **Electricity Billing System** | 🐍 Python, 🗄️ Database Management | [🔗 View Project](https://github.com/saivikasravuru/Electricity-billing-system) |
 | **Personal Portfolio Website** | 🌐 HTML, 🎨 CSS, 🚀 JavaScript | [🔗 View Portfolio](https://github.com/saivikasravuru/portfolio) |
