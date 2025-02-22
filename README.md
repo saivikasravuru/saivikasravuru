@@ -70,7 +70,7 @@
 
 ---
 
-## 📊 **GitHub Stats – Growing Every Day**  
+## 📊 **GitHub Stats – Growing Every Day **  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saivikasravuru&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
