@@ -63,11 +63,11 @@
 
 | 🌟 Project | 🔧 Tech Stack | 🔗 Live Demo  |
 |------------|-------------|-------------|
-| **Electricity Billing System** | 🐍 Python, 🗄️ Database Management | [🔗 View Project](https://github.com/saivikasravuru/Electricity-billing-system) |
+| **Electricity Billing System** | 🐍 Python, 🗄️ SQL | [🔗 View Project](https://github.com/saivikasravuru/Electricity-billing-system) |
 | **Personal Portfolio Website** | 🌐 HTML, 🎨 CSS, 🚀 JavaScript | [🔗 View Portfolio](https://github.com/saivikasravuru/portfolio) |
 | **Basic HTML CSS Page** | 🏗️ HTML, 🎨 CSS | [🔗 View Project](https://github.com/saivikasravuru/Basic-html-css-page) |
 | **Online Banking System** | 🚀 JavaScript, 🎨php, 🌐 HTML | [ 🔗 View Project](https://github.com/saivikasravuru/Online-Banking-System) |
-
+| **IPL Data Analysis** | 🐍 Python |[🔗 view project](https://github.com/saivikasravuru/IPL-data-analysis)
 
 ---
 
