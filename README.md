@@ -52,7 +52,7 @@
 
 ## ⚡ **Technical Expertise**
 🔹 **Python Programming:** Data analysis, automation, and application development. 
-🔹 **Data Structures:** Implementing efficient solutions using C/C++  
+🔹 **Data Structures:** Implementing efficient solutions using C/C++.  
 🔹 **Web Development:** Creating responsive websites with HTML and CSS  
 🔹 **Version Control:** Git and GitHub for project management  
 🔹 **Problem Solving:** Analytical thinking and algorithmic solutions  
