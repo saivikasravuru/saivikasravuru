@@ -10,7 +10,7 @@
 <!-- 🏆 BADGES & PROFILE VISITS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saivikasravuru&label=Profile+Visitors&color=FF5733&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saivikasravuru?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/saivikasravuru?label=Followers&style=social" /> 
   <img src="https://img.shields.io/badge/Data%20Science-Developer-%23F7D00C?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%2300E676?style=flat-square&logo=open-source-initiative" />
 </p>
