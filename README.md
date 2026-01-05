@@ -82,7 +82,7 @@
 
 ---
 
-## 🎯 **2025 Goals**  
+## 🎯 **2026 Goals**  
 🔹 **Master Data Science & Machine Learning**  
 🔹 **Build Complex Data-Driven Applications**  
 🔹 **Contribute to Open Source Projects**  
